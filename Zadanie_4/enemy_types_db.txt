@@ -1,0 +1,8 @@
+Infantry 45 0
+Tank 65 100
+Artillery 75 70
+Cruiser 100 75
+Submarine 105 65
+Helicopter 55 40
+Fighter 110 110
+Bomber 120 100

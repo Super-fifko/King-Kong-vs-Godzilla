@@ -1,0 +1,8 @@
+Hulk 150 120
+Ironman 100 130
+CaptainAmerica 90 150
+Thor 110 110
+BlackPanther 120 100
+Superman 160 80
+Batman 130 100
+Deadpool 130 90

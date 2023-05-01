@@ -1,0 +1,8 @@
+DarthVader 100 100
+HomerSimpson 40 20
+Pikachu 50 10
+Frodo 50 30
+SantaClaus 30 20
+ForrestGump 10 10
+LadyGaga 15 5
+LacoMelisko 5 5

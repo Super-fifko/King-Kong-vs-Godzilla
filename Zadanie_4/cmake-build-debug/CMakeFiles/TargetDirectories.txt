@@ -1,0 +1,3 @@
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_4/cmake-build-debug/CMakeFiles/z4.dir
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

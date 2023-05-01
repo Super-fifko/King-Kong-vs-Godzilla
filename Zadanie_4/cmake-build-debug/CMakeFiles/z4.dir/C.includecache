@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/data.h
+
+../include/rng.h
+
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_4/src/z4.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+rng.h
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_4/src/rng.h
+data.h
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_4/src/data.h
+
